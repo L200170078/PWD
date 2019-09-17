@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Percobaan Dua</title>
+</head>
+<body>
+    <h2 align='center'><font color='#9966FF'>Free Registration</font></h2>
+    <form action="proses.php" method="post" name="form">
+        <table>
+            <tr>
+                <td>Nama</td>
+                <td>:</td>
+                <td><input type="text" name="nama"></td>
+            </tr>
+            <tr>
+                <td>Tanggal Lahir</td>
+                <td>:</td>
+                <td>
+                    <input type="text" name="tgl"> /
+                    <input type="text" name="bln"> /
+                    <input type="text" name="thn"> /
+                </td>
+            </tr>
+            <tr>
+                <td>Alamat</td>
+                <td>:</td>
+                <td><textarea name="alamat" id="alamat"></textarea></td>
+            </tr>
+            <tr>
+                <td>Pekerjaan</td>
+                <td>:</td>
+                <td>
+                    <select name="pekerjaan" id="pekerjaan">
+                        <option value="petani">PETANI</option>
+                        <option value="nelayan">NELAYAN</option>
+                        <option value="karyawan">KARYAWAN</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Jenis Kelamin</td>
+                <td>:</td>
+                <td>
+                    <input type="radio" name="jk_l" value="1" checked>
+                    <input type="radio" name="jk_p" value="2">
+                </td>
+            </tr>
+            <tr>
+                <td>Hobi</td>
+                <td>:</td>
+                <td>
+                    <input type="checkbox" value="membaca" name="membaca"> Reading
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2"></td>
+                <td>
+                    <input type="checkbox" value="Sport" name="Sport"> Sport
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2"></td>
+                <td>
+                    <input type="checkbox" value="Singing" name="Singing"> Singing
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2"></td>
+                <td>
+                    <input type="checkbox" value="Traveling" name="Traveling"> Traveling
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2"></td>
+                <td>
+                    <input type="submit" name="kirim" id="kirim" value="Kirin">
+                    <input type="reset" name="cancel" id="cancel" value="Cancel">
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
