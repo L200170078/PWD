@@ -25,6 +25,7 @@ SQL MODUL 6
 1. Buat database informatika
 2. Kilk Database informatika
 3. Klik SQL, isikan
+<br>
 CREATE TABLE gudang (
   kode_gudang CHAR(5) NOT NULL,
   nama_gudang VARCHAR(50) NOT NULL,
