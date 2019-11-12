@@ -19,5 +19,5 @@
 # PWD
 Laporan Praktikum Pemrograman Web Dinamis
 <br>
-Repositori ini berisi berbagai percobaan dan tugas dari MODUL pemrograman web dinamis.<br>  
+Repositori ini berisi berbagai percobaan dan tugas dari MODUL pemrograman web dinamis. Laporan ini dibuat dan diunggah dengan penuh cinta :hearts: , Selayaknya luasnya jagad dan senyumnya rembulan :smile:<br>  
 
