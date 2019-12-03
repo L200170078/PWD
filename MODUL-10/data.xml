@@ -1,0 +1,24 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type="text/css" href="data.css"?>
+<Mahasiswa>
+    <ID>
+        <NIM>L200170078</NIM>
+        <Nama>BINTANG CITRA KUSUMAATMAJA</Nama>
+        <Kota>Boyolali</Kota>
+    </ID>
+    <ID>
+        <NIM>L200170065</NIM>
+        <Nama>MUHAMMAD VICKY AL HASRI</Nama>
+        <Kota>Sragen</Kota>
+    </ID>
+    <ID>
+        <NIM>L200170048</NIM>
+        <Nama>NOTO NDWARAWATI PRABU SRI BATHARA KRESNA WASUDEWA</Nama>
+        <Kota>Ndwarawati</Kota>
+    </ID>
+    <ID>
+        <NIM>L200170069</NIM>
+        <Nama>BAGONG</Nama>
+        <Kota>Pringapus</Kota>
+    </ID>
+</Mahasiswa>

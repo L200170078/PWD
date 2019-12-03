@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+table {
+	margin-right: auto;
+	margin-left: auto;
+    font-style: bold;
+    color: #7CFC00;
+    text-align: center;
+    border-color: #7CFC00;
+    border-collapse: collapse;
+}
+
+tr {
+	text-align: left;
+}
